@@ -40,12 +40,12 @@
   font-size: 20px;
   font-weight: 700;
   text-align: center;
-  padding: 5PX 20px 0PX 20PX;
+  padding: 50PX 18px 0PX 18PX;
   font-family: "Outfit", sans-serif;
 }
 
 .Card p {
-  padding: 0PX 20px;
+  padding: 5PX 20px 5 px 20px;
   font-size: 15px;
   color: grey;
   text-align: center;
